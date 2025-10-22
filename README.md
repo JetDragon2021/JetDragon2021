@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+10/22/2025: Completed IBM RAG and Agentic AI: Build Next-Gen AI Assistants
+https://coursera.org/share/b3095615e1d9f82e688be2fb354cab24
 <!---
 JetDragon2021/JetDragon2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
